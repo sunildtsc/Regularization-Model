@@ -1,2 +1,2 @@
 # Regularization-Model
-Regularization (Ridge &amp; Lasso),Melbourne_Housing Dataset
+Regularization (Ridge ,Lasso),Linear Regression,Melbourne_Housing Dataset
